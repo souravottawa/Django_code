@@ -1,2 +1,2 @@
 # Django_code
-1) Python and Django install Instructions
+1) Python and Django install Instructio:ns
